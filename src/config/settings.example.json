@@ -1,0 +1,6 @@
+{
+  "mode": "api",
+  "region": "us",
+  "max_pages": 100,
+  "user_agent": "TrustpilotScraperBot/1.0"
+}
